@@ -1,2 +1,7 @@
 python-dotenv==1.0.1
 PyMuPDF==1.23.26
+python-dotenv==1.0.1
+PyMuPDF==1.23.26
+sentence-transformers==2.7.0 
+chromadb==0.4.24            
+langchain-text-splitters==0.0.1 
